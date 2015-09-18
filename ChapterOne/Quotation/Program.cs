@@ -9,6 +9,9 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is my own private domecile and I will not be harrassed!");
+            Console.WriteLine("Bitch!");
+            Console.WriteLine("-Jesse Pinkman to Hank Schrader, Breaking Bad");
         }
     }
 }
