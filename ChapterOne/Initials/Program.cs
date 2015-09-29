@@ -9,12 +9,12 @@ namespace Initials
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("    J   FFFFFF");
-            Console.WriteLine("    J   F");
-            Console.WriteLine("    J   FFF");
-            Console.WriteLine("    J   F");
-            Console.WriteLine("J   J   F");
-            Console.WriteLine("JJJJJ   F");
+            Console.WriteLine("W  W  W   CCCCCC");
+            Console.WriteLine("W  W  W   C");
+            Console.WriteLine("W  W  W   C");
+            Console.WriteLine("W  W  W   C");
+            Console.WriteLine("W  W  W   C");
+            Console.WriteLine("WWWWWWW   CCCCCC");
         }
     }
 }
